@@ -15,5 +15,7 @@ This is a simple static website hosted using **GitHub Pages**. It contains a bas
 ## How to Run Locally
 
 >> git clone https://github.com/your-username/static-website.git
+
 >> cd static-website
+
 open index.html  # Or double-click to open in browser
